@@ -1,2 +1,2 @@
-# JavaScript_tutorials
-some tutorials with javascript - DTS 2020
+# DTS Kominfo 2020 - IT Perbankan Backend
+Thematic Academy
